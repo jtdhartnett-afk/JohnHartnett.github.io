@@ -1,6 +1,6 @@
 ---
 title: "Welcome"
-layout: single
+layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -18,10 +18,7 @@ feature_row:
     alt: "Syringe Pump"
     title: "DIY Syringe Pump"
     excerpt: "Capable of 1 ul/min flow rate up to 10 ml/min."
-  - image_path: assets/img/PliersHor.PNG
-    alt: "Pliers"
-    title: "Multi-material Pliers"
-    excerpt: "Print-in-place FDM pliers made of PLA and TPU."
+  
 ---
 
 {% include feature_row %}
