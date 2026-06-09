@@ -11,12 +11,12 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sam Kassan"
+title                    : "John Hartnett"
 title_separator          : "-"
 subtitle                 : "Personal Website"
-name                     : &name "Sam Kassan" # &name is a YAML anchor which can be *referenced later
+name                     : &name "John Hartnett" # &name is a YAML anchor which can be *referenced later
 description              : &description "Personal Website "
-url                      : https://samkassan.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://JohnHartnett.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : 
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -99,8 +99,8 @@ analytics:
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "assets/img/Composite.jpg"
-  bio              : "Biomedical Engineering student with a passion for medical technology "
-  location         : "Port Washington, NY"
+  bio              : "Middle school student with a passion for engineering"
+  location         : "New York, NY"
 #  links:
  #   - label: "GitHub"
   #    icon: "fab fa-fw fa-github"
@@ -111,11 +111,11 @@ author:
 
 
 # Site Footer
-footer:
-  links:
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/samuel-kassan/"
+#footer:
+  #links:
+  #  - label: "LinkedIn"
+  #    icon: "fab fa-fw fa-linkedin"
+  #    url: "https://www.linkedin.com/in/samuel-kassan/"
  #   - label: "Instagram"
   #    icon: "fab fa-fw fa-instagram"
    #   url: "https://www.instagram.com/dr.dflo"
