@@ -1,30 +1,29 @@
 ---
 
-title: "About Sam Kassan"
+title: "About John Hartnett"
 
 ---
 
 ## Education
 
-Sam is currently in his third year at Vanderbilt University, where he is pursuing a degree in Biomedical Engineering with a minor in Digital Fabrication.
+John is a rising eigth grader at Trevor Day school, where he found a strong passion for engineering.
 
 ## Experiences
 
 * **VP, Vanderbilt Neurotech** – Leading the development of a **BCI-controlled assistive feeding arm.**
-* **Research Intern, NYU Musculoskeletal Research Center (May–Aug 2025)** – Studied the effects of a hyaluronan-binding peptide on inflammation, performing RNA extraction, cDNA synthesis, and qPCR analysis to assess macrophage polarization.
 * **Research Intern, NYU Langone South Shore Neurologic Associates (June–Aug 2024)** – Organized electronic medical records and analyzed data on Alzheimer’s and Parkinson’s disease treatments, contributing to publications on patient outcomes and disease progression. 
 
 ## Technical Skills
 
-Sam has a diverse technical foundation spanning engineering design, digital fabrication, and computational analysis. He has experience with the following technologies:
+John has a diverse technical foundation spanning engineering design, digital fabrication, and computational analysis. He has experience with the following technologies:
 
 * Fusion 360 (CAD 3D modeling)
 * Fused Filament Fabrication (FFF)
-* Stereolithography (SLA)
-* Selective Laser Sintering
-* Laser Cutting
-* Generative Design
-* MATLAB
+* Java (Coding Language)
+* C++ (Coding Language)
+* Python(.py)
+
+
 
 
 <!-- <img src="../assets/img/Composite.jpg" alt="Sam Kassan" style="width:200px;"> -->
