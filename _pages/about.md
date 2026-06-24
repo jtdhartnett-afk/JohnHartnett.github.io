@@ -26,5 +26,5 @@ John has a diverse technical foundation spanning engineering design, digital fab
 
 
 
-<!-- <img src="../assets/img/1782263951704-ade6fca7-3f90-4c92-9367-f18cbcb6969b_1.jpg" alt="John Hartnett" style="width:200px;"> -->
+<!-- <img src="../assets/img/1782263951704-ade6fca7-3f90-4c92-9367-f18cbcb6969b_1.jpg" alt="John Hartnett" style="width:200px;"> --> 
 
