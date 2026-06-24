@@ -10,8 +10,8 @@ John is a rising eighth grader at Trevor Day school, where he found a strong pas
 
 ## Extracurriculars
 
-* **Makenspires python course** - **BCI-controlled assistive feeding arm.**
-* **Research Intern, NYU Langone South Shore Neurologic Associates (June–Aug 2024)** – Organized electronic medical records and analyzed data on Alzheimer’s and Parkinson’s disease treatments, contributing to publications on patient outcomes and disease progression. 
+* **python course at Makenspires** - A course that covered the basics of python and some more.
+* **java course at Makenspires** – A java course that taught the basics of java and was put to use by creating Minecraft mods from scratch
 
 ## Technical Skills
 
@@ -26,5 +26,5 @@ John has a diverse technical foundation spanning engineering design, digital fab
 
 
 
-<!-- <img src="../assets/img/john_snapshot.pdf" alt="Sam Kassan" style="width:200px;"> -->
+<!-- <img src="../assets/img/" alt="Sam Kassan" style="width:200px;"> -->
 
