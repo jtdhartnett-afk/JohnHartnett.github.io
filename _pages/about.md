@@ -26,5 +26,5 @@ John has a diverse technical foundation spanning engineering design, digital fab
 
 
 
-<!-- <img src="../assets/img/Composite.jpg" alt="Sam Kassan" style="width:200px;"> -->
+<!-- <img src="../assets/img/john_snapshot.jpg" alt="Sam Kassan" style="width:200px;"> -->
 
