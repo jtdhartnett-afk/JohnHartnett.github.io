@@ -13,6 +13,10 @@ John is a rising eighth grader at Trevor Day school, where he found a strong pas
 * **python course at Makenspires** - A course that covered the basics of python and some more.
 * **java course at Makenspires** – A java course that taught the basics of java and was put to use by creating Minecraft mods from scratch
 
+## Experiences
+
+**First Tech Challange** - A team competition which includes building a robot to perform certain tasks.
+
 ## Technical Skills
 
 John has a diverse technical foundation spanning engineering design, digital fabrication, and computational analysis. He has experience with the following technologies:
