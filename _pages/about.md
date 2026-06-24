@@ -6,11 +6,11 @@ title: "About John Hartnett"
 
 ## Education
 
-John is a rising eigth grader at Trevor Day school, where he found a strong passion for engineering.
+John is a rising eighth grader at Trevor Day school, where he found a strong passion for engineering.
 
-## Experiences
+## Extracurriculars
 
-* **VP, Vanderbilt Neurotech** – Leading the development of a **BCI-controlled assistive feeding arm.**
+* **Makenspires python course** - **BCI-controlled assistive feeding arm.**
 * **Research Intern, NYU Langone South Shore Neurologic Associates (June–Aug 2024)** – Organized electronic medical records and analyzed data on Alzheimer’s and Parkinson’s disease treatments, contributing to publications on patient outcomes and disease progression. 
 
 ## Technical Skills
