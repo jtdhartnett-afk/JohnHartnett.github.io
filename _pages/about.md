@@ -26,6 +26,7 @@ John has a diverse technical foundation spanning engineering design, digital fab
 * Java (Coding Language)
 * C++ (Coding Language)
 * Python(.py)
+* Blender
 
 
 
