@@ -2,8 +2,8 @@
 title: "3D Printed Pottery Wheel"
 excerpt: "80mm pottery wheel assembly made with a FDM printer."
 header:
-  image: assets/img/FrontHangerCrop.png
-  teaser: assets/img/HangerCrop.png
+  image: assets/img/Pottery_Setup.jpeg
+  teaser: assets/img/Pottery_Setup.jpeg
 gallery1:
   - image_path: assets/img/Pottery_Front_Side.jpeg
 
