@@ -12,6 +12,7 @@ gallery1:
 ## Design And Assembly
 
 components:
+
 Pottery Wheel - includes a grooved surface to provide more grip.
 Chassis - Holds everything in place and includes a guard to catch any loose clay. it also includes a mount for the motor.
 DC PSU - Powers the pottery wheel.
