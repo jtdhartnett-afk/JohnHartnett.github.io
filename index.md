@@ -14,7 +14,7 @@ feature_row:
   - image_path: assets/img/Pottery_Setup.jpeg
     alt: "3D Printed Pottery Wheel"
     title: "3D Printed Pottery Wheel"
-    excerpt: "Designed to separate particles between 125-150μm and 425-500μm."
+    excerpt: "80mm pottery wheel assembly made with a FDM printer."
   - image_path: assets/img/SyringePump.PNG
     alt: "Syringe Pump"
     title: "DIY Syringe Pump"
