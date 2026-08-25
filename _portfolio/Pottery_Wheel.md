@@ -5,7 +5,7 @@ header:
   image: assets/img/FrontHangerCrop.png
   teaser: assets/img/HangerCrop.png
 gallery1:
-  - image_path: assets/img/SKhanger.PNG
+  - image_path: assets/img/Pottery_Front_Side.jpeg
 
 ---
 
