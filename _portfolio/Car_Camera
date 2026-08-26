@@ -1,3 +1,4 @@
+---
 title: "Rc Car Camera Modification"
 excerpt: "A camera modification for a rc car."
 header:
@@ -16,3 +17,5 @@ gallery1:
   * **Iphone** - Used to receive and display the video input.
 
 {% include gallery id="gallery1" %}
+
+
