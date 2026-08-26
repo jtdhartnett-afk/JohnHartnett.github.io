@@ -16,6 +16,7 @@ gallery1:
   * **DC PSU** - Powers the pottery wheel.
   * **Clamp** - Used to hold the chassis to a surface.
   * **Potentiometer** - Used to vary the speed of the wheel.
+  * **Two M3 Screws** - Used to secure the motor in place.
 
 
 {% include gallery id="gallery1" %}
