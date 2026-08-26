@@ -9,6 +9,7 @@ gallery1:
   - image_path: assets/img/Car_Mod_Side.jpeg
 ---
 
+
 ## Components
 
   * **Battery** - A rechargable battery is used to powe the module.
