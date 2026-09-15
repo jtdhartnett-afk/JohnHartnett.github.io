@@ -19,6 +19,10 @@ feature_row:
     alt: "Model Elevator"
     title: "Model Elevator"
     excerpt: "A motorized 3D printed elevator shaft."
+  - image_path: assets/img/cab_front_view.jpeg
+    alt: "RC Car Camera Modification"
+    title: "RC Car Camera Modification"
+    excerpt: "A motorized 3D printed elevator shaft."
   
 ---
 
