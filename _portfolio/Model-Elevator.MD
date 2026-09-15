@@ -1,6 +1,6 @@
 ---
 title: "Model Elevator"
-excerpt: "DIY Syringe Pump capable of 1 ul/min flow rate up to 10 ml/min."
+excerpt: "A motorized 3D printed elevator shaft."
 header:
   image: assets/img/cab_front_view.jpeg
   teaser: assets/img/cab_front_view.jpeg
