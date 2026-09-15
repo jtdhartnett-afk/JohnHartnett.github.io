@@ -1,6 +1,6 @@
 ---
-title: "Rc Car Camera Modification"
-excerpt: "A camera modification for a rc car."
+title: "RC Car Camera Modification"
+excerpt: "A drone camera module integrated with a RC car"
 header:
   image: assets/img/Car_Mod_Side.jpeg
   teaser: assets/img/Car_Mod_Side.jpeg
