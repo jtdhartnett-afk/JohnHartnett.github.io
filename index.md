@@ -22,7 +22,7 @@ feature_row:
   - image_path:  assets/img/Car_Mod_Side.jpeg
     alt: "RC Car Camera Modification"
     title: "RC Car Camera Modification"
-    excerpt: "A motorized 3D printed elevator shaft."
+    excerpt: "A drone camera module integrated with a RC car."
   
 ---
 
