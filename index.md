@@ -15,10 +15,10 @@ feature_row:
     alt: "3D Printed Pottery Wheel"
     title: "3D Printed Pottery Wheel"
     excerpt: "80mm pottery wheel assembly made with a FDM printer."
-  - image_path: assets/img/SyringePump.PNG
+  - image_path: assets/img/cab_front_view.jpeg
     alt: "Syringe Pump"
-    title: "DIY Syringe Pump"
-    excerpt: "Capable of 1 ul/min flow rate up to 10 ml/min."
+    title: "Model Elevator"
+    excerpt: "A fully functional 3D printed model elevator."
   
 ---
 
