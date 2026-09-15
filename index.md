@@ -16,9 +16,9 @@ feature_row:
     title: "3D Printed Pottery Wheel"
     excerpt: "80mm pottery wheel assembly made with a FDM printer."
   - image_path: assets/img/cab_front_view.jpeg
-    alt: "Syringe Pump"
+    alt: "Model Elevator"
     title: "Model Elevator"
-    excerpt: "A fully functional 3D printed model elevator."
+    excerpt: "A motorized 3D printed elevator shaft."
   
 ---
 
