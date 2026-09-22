@@ -10,12 +10,15 @@ gallery1:
 ---
 
 
-## Components
+## Features
 
-  * **Battery** - A rechargable battery is used to powe the module.
-  * **Camera Module** - A camera module from a drone is used.
-  * **2.4 GH Antenna** - Used to broadcast the signal.
-  * **Iphone** - Used to receive and display the video input.
+  * **Camera integration** - Mounted a drone camera module beneath the RC car's chassis 
+
+  * **Wireless video transmission** - Wired the camera to a 2.4GHz antenna to broadcast a live analog video signal 
+
+  * **Custom charging solution** - Soldered a USB-C converter directly to the camera module for convenient recharging, avoiding the need to remove or disassemble the unit each time 
+
+* **Mobile video receiver** - Connected the video feed to an iPhone app for real-time viewing
 
 {% include gallery id="gallery1" %}
 
