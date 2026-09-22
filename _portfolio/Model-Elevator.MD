@@ -38,7 +38,7 @@ Pressing a button sends the elevator cab to the requested floor. A motor at the 
 
 This project is open source. The full Arduino sketch is included below.
 
-<details>
+<details markdown="1">
 <summary>View full source code</summary>
 
 ```cpp
